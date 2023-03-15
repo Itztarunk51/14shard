@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My DApp description",
   "scripts": {
-    "build": "parcel build rembte.html --public-url ./"
+    "build": "parcel build rembte --public-url ./"
   },
   "dependencies": {
     "ethers": "5.4.0",
